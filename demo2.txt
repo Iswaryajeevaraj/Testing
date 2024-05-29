@@ -1,7 +1,7 @@
 1.profile page
 2. chat screen
 3. last screen
-4.update file
+4.update file and Document file
 5.Hidden last screnn
 6.adding audio 
 7.adding video
